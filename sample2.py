@@ -6,3 +6,4 @@ driver.find_element_by_name('lastname').send_keys('singh')
 driver.find_element_by_name('reg_email__').send_keys('0987654321')
 driver.find_element_by_name('reg_passwd__').send_keys('123456')
 
+xyx
